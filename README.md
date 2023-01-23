@@ -15,5 +15,5 @@ In this module we use Approach 1 to upload and download file/image.
 ### Endpoint for upload image: (use POST request)
  > http://loalhost:4041/image/upload
  
-### Endpoint for download image: (use POST request)
+### Endpoint for download image: (use GET request)
  > http://loalhost:4041/image/download/{image-name}
